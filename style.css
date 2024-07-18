@@ -1,0 +1,78 @@
+.header-section {
+    background-color: #ffffff;
+    height:80px;
+    width:100vw;
+    border:0.4px solid #ffffff;
+    text-align: center;
+    color:#000000;
+  }
+  .Main{
+    background-color: #ffffff;
+    height:100%;
+    width:100vw;
+    
+  }
+  .main-heading{
+    font-size:55px;
+    color:#000000;
+    margin-left:25%;
+    margin-top:5%;
+  }
+  .main-image{
+    height:600px;
+    width:100vw;
+    display: flex;
+    margin-top: 8%;
+  }
+  .image-div1{
+    height:100%;
+    width:25%;
+    margin-left:0%;
+    border:2px solid #000000;
+  }
+  .image-div2{
+    height:100%;
+    width:47%;
+    margin-left:0%;
+    background-color: #272826;
+    margin-left:0.5%;
+    border-radius:50px;
+  }
+  .image-div3{
+    height:100%;
+    width:26%;
+    margin-left:0%;
+    background-color: #ffffff;
+    margin-left:0.5%;
+    border-radius:50px 0px 0px 50px;
+    border:2px solid #000000;
+
+
+  }
+.div2-img{
+    background-size: cover;
+    height:95%;
+    width:95%;
+    margin-top: 2%;
+    margin-left: 2%;
+  }
+  .div1-img{
+    background-size: cover;
+    height:95%;
+    width:92%;
+    margin-top: 5%;
+  }
+  .div3-img{
+    background-size: cover;
+    height:93%;
+    width:92%;
+    margin-top: 5%;
+    margin-left: 7.9%;
+  }
+  .loginmain{
+    background-color:#ffffff;
+    height:100vh;
+    width:100vw;
+    display: flex;
+  }
+ 
